@@ -1,0 +1,1 @@
+This project is for practising shell I/O redirection. I will be writing bash scripts contain commands for that purpose.
